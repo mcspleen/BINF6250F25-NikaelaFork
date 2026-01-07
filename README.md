@@ -136,7 +136,7 @@ def find_match(query: str, reference: str) -> list[int]:
 This project went pretty smoothly overall. I made a conscious decision not to repeat my approach from last week! instead, I invested time in reading documentation and watching educational videos to better understand the BWT algorithm conceptually before diving into the code. This preparation paid off, as I was able to grasp the underlying logic more thoroughly and contribute more effectively to the implementation. I really appreciate Jason being so on board to try and get this project done Sunday night as I knew my work week was going to be very busy. He was a great partner and we split up the functions and worked off our pseudocode. I was very grateful that so much pseudocode was provided. I think conceptually this was a harder topic and it was a relief that the proejct actually felt doable rather than smothering. 
 
 
-## Other member (Jason Bae
+## Other member (Jason Bae)
 As Marcus told us, the main struggle for this project was wrapping our heads around the concept and not the coding. That said, learning about memory efficient algorithms and how to read/unpack those was very fascinating to me. This project went smoothly- Nikaela and I were able to get the main bulk of the project done by Sunday with small refinements following it. I appreciate that despite a busy schedule, Nikaela maintains open communication and solid work.  
 
 # Generative AI Appendix
